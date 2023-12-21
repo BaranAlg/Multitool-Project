@@ -8,7 +8,7 @@ using System.Diagnostics;
 
 namespace WIBFTKlassenBibliothek
 {
-    internal class Feature17
+    internal class Main
     {
         #region main
         internal static void Feature_17()
