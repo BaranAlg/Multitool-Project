@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T10:46:42.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="Fe_HvHxno7YGvqrXd2WY" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T10:47:53.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="ke_w9V4_rHt-lmBOqoSv" version="24.2.2" type="github">
   <diagram name="Seite-1" id="xjb5QmgcHpM4iNRoJGed">
     <mxGraphModel dx="1393" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="Z-mIa7yHTthEnxBYMzwK-1" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;+ CeoName: String =null!&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="G6OjLGfVXKsIOxzyc3jy-8" vertex="1">
           <mxGeometry y="80" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z-mIa7yHTthEnxBYMzwK-3" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;+ GameList: List&amp;lt;GameList&amp;gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="G6OjLGfVXKsIOxzyc3jy-8" vertex="1">
+        <mxCell id="Z-mIa7yHTthEnxBYMzwK-3" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;+ GameList: List&amp;lt;Game&amp;gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="G6OjLGfVXKsIOxzyc3jy-8" vertex="1">
           <mxGeometry y="110" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xwFwPmBcwyw37O5yBJnI-7" value="+&amp;nbsp; FanCount: int&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="G6OjLGfVXKsIOxzyc3jy-8" vertex="1">
